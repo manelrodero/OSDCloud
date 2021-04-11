@@ -166,7 +166,9 @@ A partir de aquí comienza el proceso de "instalación":
 
 Finalmente, después de rato (8 minutos en un antiguo HP 840 G1), aparece el OOBE de Windows 10.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xD06ewDKn5w" title="Test de OSDCloud en VMware Workstation Pro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> **Nota**: El siguiente vídeo muestra el proceso completo en un entorno VMware Workstation Pro.
+
+[![Test de OSDCloud en VMware Workstation Pro](https://img.youtube.com/vi/xD06ewDKn5w/0.jpg)](https://www.youtube.com/watch?v=xD06ewDKn5w "Test de OSDCloud en VMware Workstation Pro")
 
 ## Anexo
 
