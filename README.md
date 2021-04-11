@@ -166,6 +166,8 @@ A partir de aquí comienza el proceso de "instalación":
 
 Finalmente, después de rato (8 minutos en un antiguo HP 840 G1), aparece el OOBE de Windows 10.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xD06ewDKn5w" title="Test de OSDCloud en VMware Workstation Pro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Anexo
 
 ### <a name="TLS12"></a>Usar TLS1.2 en PowerShell
